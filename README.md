@@ -36,3 +36,6 @@ Python (pandas, numpy), matplotlib, seaborn. Environment: Google Colab.
 - Delivery time does not correlate with profit
 - No products with pronounced seasonality were identified, and sales are evenly distributed across the days of the week
 - Data for 2017 is incomplete (through July 23); this has been factored into all forecasts and conclusions
+
+## Get in touch
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/yuliia-mushynska-a31141346), or check out more dashboards on [Tableau Public](https://public.tableau.com/app/profile/yuliia.mushynska).
